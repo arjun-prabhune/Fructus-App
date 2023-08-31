@@ -40,9 +40,7 @@ struct FruitCardView: View {
                     .padding(.horizontal, 16)
                     .frame(maxWidth:  480)
                 
-                
-                
-                
+
                 // BUTTON: Start
                 StartButtonView()
             } //: VSTACK
